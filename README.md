@@ -6,7 +6,7 @@
 * _CSS_ 🎨
 * _Javascript_ ☕
 * _Node_ 🧭
-* _Webpack_ 💾
+* _Webpack_ 🕸
 * _Bootstrap_ 🥾
 * _C#_ #️⃣
 ## Description 📜
